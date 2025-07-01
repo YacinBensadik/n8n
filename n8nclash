@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Monk Phoenix Graveyard",
+    "type": "Control",
+    "cards": [
+      "Monk",
+      "Phoenix",
+      "Graveyard",
+      "Tornado",
+      "Poison",
+      "Ice Wizard",
+      "Barbarian Barrel",
+      "Tombstone"
+    ]
+  },
+  {
+    "name": "Miner Poison Control",
+    "type": "Control",
+    "cards": [
+      "Miner",
+      "Poison",
+      "Bomb Tower",
+      "Spear Goblins",
+      "Ice Spirit",
+      "The Log",
+      "Golden Knight",
+      "Wall Breakers"
+    ]
+  },
+  {
+    "name": "Royal Giant Monk",
+    "type": "Beatdown",
+    "cards": [
+      "Royal Giant",
+      "Monk",
+      "Mother Witch",
+      "Hunter",
+      "Fisherman",
+      "Phoenix",
+      "Zap",
+      "Log"
+    ]
+  },
+  {
+    "name": "X-Bow 3.0",
+    "type": "Siege",
+    "cards": [
+      "X-Bow",
+      "Tesla",
+      "Ice Spirit",
+      "Skeletons",
+      "Log",
+      "Archers",
+      "Fireball",
+      "Knight"
+    ]
+  },
+  {
+    "name": "Goblin Drill Cycle",
+    "type": "Cycle",
+    "cards": [
+      "Goblin Drill",
+      "Wall Breakers",
+      "Magic Archer",
+      "Bomb Tower",
+      "Fire Spirit",
+      "The Log",
+      "Skeletons",
+      "Golden Knight"
+    ]
+  },
+  {
+    "name": "LavaLoon Phoenix",
+    "type": "Air Beatdown",
+    "cards": [
+      "Lava Hound",
+      "Balloon",
+      "Phoenix",
+      "Tombstone",
+      "Barbarian Barrel",
+      "Guards",
+      "Arrows",
+      "Fireball"
+    ]
+  },
+  {
+    "name": "E-Giant Archer Queen",
+    "type": "Beatdown",
+    "cards": [
+      "Electro Giant",
+      "Lightning",
+      "Tornado",
+      "Archer Queen",
+      "Bomber",
+      "Dark Prince",
+      "Phoenix",
+      "Barbarian Barrel"
+    ]
+  },
+  {
+    "name": "P.E.K.K.A Bridge Spam",
+    "type": "Control",
+    "cards": [
+      "P.E.K.K.A",
+      "Battle Ram",
+      "Bandit",
+      "Electro Wizard",
+      "Zap",
+      "Royal Ghost",
+      "Magic Archer",
+      "Minions"
+    ]
+  },
+  {
+    "name": "Mortar Miner Cycle",
+    "type": "Control",
+    "cards": [
+      "Mortar",
+      "Miner",
+      "Archers",
+      "Fireball",
+      "Skeletons",
+      "Ice Spirit",
+      "The Log",
+      "Knight"
+    ]
+  },
+  {
+    "name": "Mega Knight Bait",
+    "type": "Bait",
+    "cards": [
+      "Mega Knight",
+      "Goblin Gang",
+      "Bats",
+      "Spear Goblins",
+      "Goblin Barrel",
+      "Fireball",
+      "Zap",
+      "Miner"
+    ]
+  }
+]
