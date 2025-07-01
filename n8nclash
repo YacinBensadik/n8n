@@ -1,58 +1,30 @@
 [
   {
-    "name": "Monk Phoenix Graveyard",
-    "type": "Control",
-    "cards": [
-      "Monk",
-      "Phoenix",
-      "Graveyard",
-      "Tornado",
-      "Poison",
-      "Ice Wizard",
-      "Barbarian Barrel",
-      "Tombstone"
-    ]
-  },
-  {
-    "name": "Miner Poison Control",
+    "name": "Miner Control MK Phoenix",
     "type": "Control",
     "cards": [
       "Miner",
-      "Poison",
+      "Mighty Miner",
+      "Phoenix",
       "Bomb Tower",
-      "Spear Goblins",
-      "Ice Spirit",
-      "The Log",
-      "Golden Knight",
-      "Wall Breakers"
+      "Wall Breakers",
+      "Log",
+      "Tornado",
+      "Poison"
     ]
   },
   {
-    "name": "Royal Giant Monk",
-    "type": "Beatdown",
+    "name": "Royal Giant Lightning Cycle",
+    "type": "Control",
     "cards": [
       "Royal Giant",
-      "Monk",
-      "Mother Witch",
-      "Hunter",
       "Fisherman",
       "Phoenix",
-      "Zap",
-      "Log"
-    ]
-  },
-  {
-    "name": "X-Bow 3.0",
-    "type": "Siege",
-    "cards": [
-      "X-Bow",
-      "Tesla",
-      "Ice Spirit",
-      "Skeletons",
-      "Log",
-      "Archers",
-      "Fireball",
-      "Knight"
+      "Mother Witch",
+      "Hunter",
+      "Lightning",
+      "Barbarian Barrel",
+      "Skeletons"
     ]
   },
   {
@@ -60,83 +32,391 @@
     "type": "Cycle",
     "cards": [
       "Goblin Drill",
+      "Valkyrie",
+      "Inferno Tower",
       "Wall Breakers",
-      "Magic Archer",
-      "Bomb Tower",
-      "Fire Spirit",
-      "The Log",
-      "Skeletons",
-      "Golden Knight"
+      "Fireball",
+      "Goblins",
+      "Log",
+      "Archers"
     ]
   },
   {
-    "name": "LavaLoon Phoenix",
-    "type": "Air Beatdown",
+    "name": "X-Bow 2.9 Cycle",
+    "type": "Cycle",
+    "cards": [
+      "X-Bow",
+      "Tesla",
+      "Ice Spirit",
+      "Skeletons",
+      "Archers",
+      "Fireball",
+      "Ice Golem",
+      "Log"
+    ]
+  },
+  {
+    "name": "Mortar Miner Poison",
+    "type": "Control",
+    "cards": [
+      "Mortar",
+      "Miner",
+      "Archers",
+      "Valkyrie",
+      "Goblins",
+      "Poison",
+      "Log",
+      "Tesla"
+    ]
+  },
+  {
+    "name": "Golem Beatdown Phoenix",
+    "type": "Beatdown",
+    "cards": [
+      "Golem",
+      "Phoenix",
+      "Night Witch",
+      "Lumberjack",
+      "Tornado",
+      "Baby Dragon",
+      "Lightning",
+      "Nato"
+    ]
+  },
+  {
+    "name": "LavaLoon Miner",
+    "type": "Beatdown",
     "cards": [
       "Lava Hound",
       "Balloon",
-      "Phoenix",
+      "Miner",
       "Tombstone",
-      "Barbarian Barrel",
+      "Mega Minion",
       "Guards",
       "Arrows",
       "Fireball"
     ]
   },
   {
-    "name": "E-Giant Archer Queen",
+    "name": "Hog Earthquake Cycle",
+    "type": "Cycle",
+    "cards": [
+      "Hog Rider",
+      "Earthquake",
+      "Musketeer",
+      "Cannon",
+      "Skeletons",
+      "Log",
+      "Ice Spirit",
+      "Knight"
+    ]
+  },
+  {
+    "name": "Electro Giant Golden Knight",
     "type": "Beatdown",
     "cards": [
       "Electro Giant",
+      "Golden Knight",
       "Lightning",
       "Tornado",
-      "Archer Queen",
-      "Bomber",
-      "Dark Prince",
-      "Phoenix",
+      "Baby Dragon",
+      "Cannon",
+      "Nado",
       "Barbarian Barrel"
     ]
   },
   {
-    "name": "P.E.K.K.A Bridge Spam",
-    "type": "Control",
+    "name": "Archer Queen Royal Hogs",
+    "type": "Split Push",
     "cards": [
-      "P.E.K.K.A",
-      "Battle Ram",
-      "Bandit",
-      "Electro Wizard",
-      "Zap",
-      "Royal Ghost",
-      "Magic Archer",
-      "Minions"
+      "Royal Hogs",
+      "Archer Queen",
+      "Cannon",
+      "Heal Spirit",
+      "Skeletons",
+      "Earthquake",
+      "Log",
+      "Fire Spirit"
     ]
   },
   {
-    "name": "Mortar Miner Cycle",
+    "name": "Miner Control MK Phoenix",
+    "type": "Control",
+    "cards": [
+      "Miner",
+      "Mighty Miner",
+      "Phoenix",
+      "Bomb Tower",
+      "Wall Breakers",
+      "Log",
+      "Tornado",
+      "Poison"
+    ]
+  },
+  {
+    "name": "Royal Giant Lightning Cycle",
+    "type": "Control",
+    "cards": [
+      "Royal Giant",
+      "Fisherman",
+      "Phoenix",
+      "Mother Witch",
+      "Hunter",
+      "Lightning",
+      "Barbarian Barrel",
+      "Skeletons"
+    ]
+  },
+  {
+    "name": "Goblin Drill Cycle",
+    "type": "Cycle",
+    "cards": [
+      "Goblin Drill",
+      "Valkyrie",
+      "Inferno Tower",
+      "Wall Breakers",
+      "Fireball",
+      "Goblins",
+      "Log",
+      "Archers"
+    ]
+  },
+  {
+    "name": "X-Bow 2.9 Cycle",
+    "type": "Cycle",
+    "cards": [
+      "X-Bow",
+      "Tesla",
+      "Ice Spirit",
+      "Skeletons",
+      "Archers",
+      "Fireball",
+      "Ice Golem",
+      "Log"
+    ]
+  },
+  {
+    "name": "Mortar Miner Poison",
     "type": "Control",
     "cards": [
       "Mortar",
       "Miner",
       "Archers",
-      "Fireball",
+      "Valkyrie",
+      "Goblins",
+      "Poison",
+      "Log",
+      "Tesla"
+    ]
+  },
+  {
+    "name": "Golem Beatdown Phoenix",
+    "type": "Beatdown",
+    "cards": [
+      "Golem",
+      "Phoenix",
+      "Night Witch",
+      "Lumberjack",
+      "Tornado",
+      "Baby Dragon",
+      "Lightning",
+      "Nato"
+    ]
+  },
+  {
+    "name": "LavaLoon Miner",
+    "type": "Beatdown",
+    "cards": [
+      "Lava Hound",
+      "Balloon",
+      "Miner",
+      "Tombstone",
+      "Mega Minion",
+      "Guards",
+      "Arrows",
+      "Fireball"
+    ]
+  },
+  {
+    "name": "Hog Earthquake Cycle",
+    "type": "Cycle",
+    "cards": [
+      "Hog Rider",
+      "Earthquake",
+      "Musketeer",
+      "Cannon",
       "Skeletons",
+      "Log",
       "Ice Spirit",
-      "The Log",
       "Knight"
     ]
   },
   {
-    "name": "Mega Knight Bait",
-    "type": "Bait",
+    "name": "Electro Giant Golden Knight",
+    "type": "Beatdown",
     "cards": [
-      "Mega Knight",
-      "Goblin Gang",
-      "Bats",
-      "Spear Goblins",
-      "Goblin Barrel",
+      "Electro Giant",
+      "Golden Knight",
+      "Lightning",
+      "Tornado",
+      "Baby Dragon",
+      "Cannon",
+      "Nado",
+      "Barbarian Barrel"
+    ]
+  },
+  {
+    "name": "Archer Queen Royal Hogs",
+    "type": "Split Push",
+    "cards": [
+      "Royal Hogs",
+      "Archer Queen",
+      "Cannon",
+      "Heal Spirit",
+      "Skeletons",
+      "Earthquake",
+      "Log",
+      "Fire Spirit"
+    ]
+  },
+  {
+    "name": "Miner Control MK Phoenix",
+    "type": "Control",
+    "cards": [
+      "Miner",
+      "Mighty Miner",
+      "Phoenix",
+      "Bomb Tower",
+      "Wall Breakers",
+      "Log",
+      "Tornado",
+      "Poison"
+    ]
+  },
+  {
+    "name": "Royal Giant Lightning Cycle",
+    "type": "Control",
+    "cards": [
+      "Royal Giant",
+      "Fisherman",
+      "Phoenix",
+      "Mother Witch",
+      "Hunter",
+      "Lightning",
+      "Barbarian Barrel",
+      "Skeletons"
+    ]
+  },
+  {
+    "name": "Goblin Drill Cycle",
+    "type": "Cycle",
+    "cards": [
+      "Goblin Drill",
+      "Valkyrie",
+      "Inferno Tower",
+      "Wall Breakers",
       "Fireball",
-      "Zap",
-      "Miner"
+      "Goblins",
+      "Log",
+      "Archers"
+    ]
+  },
+  {
+    "name": "X-Bow 2.9 Cycle",
+    "type": "Cycle",
+    "cards": [
+      "X-Bow",
+      "Tesla",
+      "Ice Spirit",
+      "Skeletons",
+      "Archers",
+      "Fireball",
+      "Ice Golem",
+      "Log"
+    ]
+  },
+  {
+    "name": "Mortar Miner Poison",
+    "type": "Control",
+    "cards": [
+      "Mortar",
+      "Miner",
+      "Archers",
+      "Valkyrie",
+      "Goblins",
+      "Poison",
+      "Log",
+      "Tesla"
+    ]
+  },
+  {
+    "name": "Golem Beatdown Phoenix",
+    "type": "Beatdown",
+    "cards": [
+      "Golem",
+      "Phoenix",
+      "Night Witch",
+      "Lumberjack",
+      "Tornado",
+      "Baby Dragon",
+      "Lightning",
+      "Nato"
+    ]
+  },
+  {
+    "name": "LavaLoon Miner",
+    "type": "Beatdown",
+    "cards": [
+      "Lava Hound",
+      "Balloon",
+      "Miner",
+      "Tombstone",
+      "Mega Minion",
+      "Guards",
+      "Arrows",
+      "Fireball"
+    ]
+  },
+  {
+    "name": "Hog Earthquake Cycle",
+    "type": "Cycle",
+    "cards": [
+      "Hog Rider",
+      "Earthquake",
+      "Musketeer",
+      "Cannon",
+      "Skeletons",
+      "Log",
+      "Ice Spirit",
+      "Knight"
+    ]
+  },
+  {
+    "name": "Electro Giant Golden Knight",
+    "type": "Beatdown",
+    "cards": [
+      "Electro Giant",
+      "Golden Knight",
+      "Lightning",
+      "Tornado",
+      "Baby Dragon",
+      "Cannon",
+      "Nado",
+      "Barbarian Barrel"
+    ]
+  },
+  {
+    "name": "Archer Queen Royal Hogs",
+    "type": "Split Push",
+    "cards": [
+      "Royal Hogs",
+      "Archer Queen",
+      "Cannon",
+      "Heal Spirit",
+      "Skeletons",
+      "Earthquake",
+      "Log",
+      "Fire Spirit"
     ]
   }
 ]
